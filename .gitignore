@@ -1,0 +1,7 @@
+build/
+.vscode/
+__pycache__/
+*.exe
+*.obj
+*.pdb
+data/matrix_C.txt
